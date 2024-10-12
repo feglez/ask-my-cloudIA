@@ -37,3 +37,7 @@ Para esto hice click sobre mi foto de perfil y accedí a *Settings* $\rightarrow
 Para activar el segundo factor de autenticación se siguieron los pasos mostrados en [Configuring two-factor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication).
 
 En mi caso decidí emplear [DUO Mobile](https://duo.com/product/multi-factor-authentication-mfa/duo-mobile-app) como aplicación TOTP.
+
+### Licencia empleada
+
+Para este proyecto se ha decidido emplear una licencia MIT. Esta puede consultarse [aquí](https://github.com/feglez/ask-my-cloudIA/blob/main/LICENSE).

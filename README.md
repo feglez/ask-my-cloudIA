@@ -1,4 +1,4 @@
-# ask-my-cloudIA
+# Proyecto: ask-my-cloudIA ☁️🤖
 
 Repositorio para las prácticas de la asignatura de CC del MUII de la Universidad de Granada. Curso 2024-2025.
 
